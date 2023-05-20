@@ -4,7 +4,6 @@
 // 유형: 기초문법
 // 추천 풀이시간: 10분
 
-const { log } = require('console');
 let fs = require('fs');
 let input = fs.readFileSync('/dev/stdin').toString().split('\n');
 
