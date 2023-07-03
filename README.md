@@ -45,4 +45,5 @@
 <details>
   <summary>&nbsp;8 kyu</summary>
   <div markdown="1">&nbsp; • calculate-average</div>
+  <div markdown="2">&nbsp; • no-zeros-for-heros</div>
 </details>
