@@ -39,3 +39,10 @@
 </details>
 
 ## Javascript 핵심 자료구조
+
+## CodeWars
+
+<details>
+  <summary>&nbsp;8 kyu</summary>
+  <div markdown="1">&nbsp; • calculate-average</div>
+</details>
