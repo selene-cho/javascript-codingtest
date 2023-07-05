@@ -44,6 +44,7 @@
 
 <details>
   <summary>&nbsp;8 kyu</summary>
-  <div markdown="1">&nbsp; • calculate-average</div>
-  <div markdown="2">&nbsp; • no-zeros-for-heros</div>
+  <div markdown="1">&nbsp; • Calculate average</div>
+  <div markdown="2">&nbsp; • No zeros for heros</div>
+  <div markdown="3">&nbsp; • Quarter of the year</div>
 </details>
