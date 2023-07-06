@@ -47,4 +47,5 @@
   <div markdown="1">&nbsp; • Calculate average</div>
   <div markdown="2">&nbsp; • No zeros for heros</div>
   <div markdown="3">&nbsp; • Quarter of the year</div>
+  <div markdown="3">&nbsp; • Drink about</div>
 </details>
