@@ -49,4 +49,5 @@
   <div markdown="3">&nbsp; • Quarter of the year</div>
   <div markdown="4">&nbsp; • Drink about</div>
   <div markdown="5">&nbsp; • Will there be enough space?</div>
+  <div markdown="6">&nbsp; • All star code challenge #18</div>
 </details>
